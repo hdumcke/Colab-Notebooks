@@ -13,3 +13,5 @@ Meshroom_panorama_run.ipynb: Create a 360 degree panorama from images
 colmap_install.ipynb: Compile colmap and copy binaries on cloud drive
 
 colmap_run.ipynb: Install colmap from cloud drive and run colmap on dataset
+
+blender_render: based on https://www.youtube.com/watch?v=lEW7efy_aiY
